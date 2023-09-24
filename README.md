@@ -14,14 +14,14 @@ Extensive experiments demonstrate the consistent performance gain offered by our
 ## Reference:
 Please note that: our code is based on https://github.com/falesiani/GIB. If you intend to use our code, kindly reference this article. 
 
-<table><tr><td bgcolor=DarkSeaGreen>
-@inproceedings{alesiani2021gated,\\
-  title={Gated Information Bottleneck for Generalization in Sequential Environments},\\
-  author={Alesiani, Francesco and Yu, Shujian and Yu, Xi},\\
-  booktitle={2021 IEEE International Conference on Data Mining (ICDM)},\\
-  pages={1--10},\\
-  year={2021},\\
-  organization={IEEE}\\
+<table><tr><td bgcolor=poweredgray>
+@inproceedings{alesiani2021gated,
+  title={Gated Information Bottleneck for Generalization in Sequential Environments},
+  author={Alesiani, Francesco and Yu, Shujian and Yu, Xi},
+  booktitle={2021 IEEE International Conference on Data Mining (ICDM)},
+  pages={1--10},
+  year={2021},
+  organization={IEEE}
 }
 </td></tr><table>
 
