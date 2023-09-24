@@ -1,7 +1,7 @@
 # IMS
 This repository contains the code for the paper "**Coping with Change: Learning Invariant and Minimum Sufficient Representations for Fine-Grained Visual Categorization**"
 
- <img src="./images/Demo.gif" width = "360" height = "360" alt="图片名称" margin:0 auto />
+ <img src="./models/Overview.jpg" width = "360" height = "360" alt="图片名称" margin:0 auto />
 
 ## Abstract:  
   - Fine-grained visual categorization~(FGVC) is a challenging task due to similar visual appearances between various species. 
