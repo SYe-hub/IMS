@@ -14,6 +14,7 @@ Extensive experiments demonstrate the consistent performance gain offered by our
 ## Reference:
 Please note that: our code is based on https://github.com/falesiani/GIB. If you intend to use our code, kindly reference this article. 
 
+<table><tr><td bgcolor=DarkSeaGreen>
 @inproceedings{alesiani2021gated,
   title={Gated Information Bottleneck for Generalization in Sequential Environments},
   author={Alesiani, Francesco and Yu, Shujian and Yu, Xi},
@@ -22,5 +23,6 @@ Please note that: our code is based on https://github.com/falesiani/GIB. If you 
   year={2021},
   organization={IEEE}
 }
+</td></tr><table>
 
 For further research on information theory, you can refer to: https://arxiv.org/abs/1808.07912.
