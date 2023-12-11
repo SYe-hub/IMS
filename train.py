@@ -227,14 +227,7 @@ def train(args, model):
                     domain_1.append(i)
                 elif doamin_dict[img_relativepath] == 1:
                     domain_2.append(i)
-                elif doamin_dict[img_relativepath] == 2:
-                    domain_3.append(i)
-                elif doamin_dict[img_relativepath] == 3:
-                    domain_4.append(i)
-                elif doamin_dict[img_relativepath] == 4:
-                    domain_5.append(i)
-                elif doamin_dict[img_relativepath] == 5:
-                    domain_6.append(i)
+
 
             if mixmethod != 'baseline':
 
